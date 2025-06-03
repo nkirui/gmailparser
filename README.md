@@ -57,8 +57,8 @@ This project uses Google's OAuth 2.0 for authentication. Follow these steps to o
 Clone the repository and install the required Python packages using `pipenv`:
 
 ```bash
-git clone <repository_url> # Replace with your repository URL
-cd <project_directory>
+git clone https://github.com/nkirui/gmailparser.git
+cd gmailparser
 pipenv install
 ```
 
