@@ -1,4 +1,4 @@
-# Gmail API Interaction Project
+# Gmail API Interaction Project(Research purpose)
 
 This project demonstrates how to interact with the Google Gmail API to fetch user profile information, email labels, and recent email messages. It's built with Python, leveraging asynchronous operations for efficient API communication and includes a robust data transformation layer.
 
@@ -62,7 +62,6 @@ cd gmailparser
 pipenv install
 ```
 
-
 This command will:
 
 * Create a virtual environment for your project if one doesn't exist.
@@ -95,7 +94,6 @@ The script will then fetch and display:
 * Your Gmail user profile.
 * A list of your Gmail labels.
 * Details of the 10 most recent emails in your inbox.
-
 
 ### Running Tests
 
